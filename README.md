@@ -30,6 +30,8 @@ A custom ESP32-based drone remote controller designed from scratch.
 - 3x R-0904N-L-25KS Potentiometers
 - 3x LEDs
 - 1x Custom 3D Printed Enclosure
+- 8x Resisitor (3x 220, 6x 10k, 2x 5,1k)
+- 3x Capacitor (2x 100nF, 1x 10uF)
 
 ## Firmware Setup
 Built with PlatformIO in Visual Studio Code.

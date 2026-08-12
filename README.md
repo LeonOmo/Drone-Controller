@@ -41,4 +41,4 @@ A custom ESP32-based drone remote controller designed from scratch.
 Built with PlatformIO in Visual Studio Code.
 
 ## Extra Stuff
-I HATE MY DESIGN
+Please tell me if my funding request is too high i think i asked for too much.

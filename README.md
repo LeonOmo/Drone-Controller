@@ -29,7 +29,6 @@ A custom ESP32-based drone remote controller designed from scratch.
 - 5x MTS-102-A2 Toggle Switches
 - 3x R-0904N-L-25KS Potentiometers
 - 3x LEDs
-- M3 Heatset Inserts & Bolts
 - 1x Custom 3D Printed Enclosure
 
 ## Firmware Setup

@@ -9,7 +9,7 @@ A custom ESP32-based drone remote controller designed from scratch.
 - Custom Control Inputs:
   - 2x Dual-axis Joysticks (Roll, Pitch, Yaw, Throttle)
   - 5x Toggle Switches (Arm, Flight Mode, Buzzer, Landing Gear, Folding Arms)
-  - 3x Potentiometers (Motor Caps & Master Cap)
+  - 3x Potentiometers (Motor Caps & 1/2 & 3/4 Motor Cap)
   - Hardware Status LEDs (Arm, Landing Gear, Link Status)
 
 ## CAD Model

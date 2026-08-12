@@ -63,7 +63,7 @@ void setup() {
     display.setTextColor(WHITE);
     display.setTextSize(1);
     display.setCursor(5, 0);
-    display.println("STARDANCE SYSTEM :)");
+    display.println("OMO SYSTEMS :)");
     display.setCursor(5, 15);
     display.println("Connecting RP1...");
     display.setCursor(5, 30);
@@ -118,7 +118,7 @@ void loop() {
   static unsigned long lastDisplayUpdate = 0;
   if (millis() - lastDisplayUpdate > 100) {
     lastDisplayUpdate = millis();
-
+    
     display.clearDisplay();
     display.setCursor(0, 0);
     display.print("OMO");

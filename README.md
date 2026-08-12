@@ -14,11 +14,12 @@ A custom ESP32-based drone remote controller designed from scratch.
 
 ## CAD Model
 - Designed from scratch in Onshape.
-
+<img width="503" height="538" alt="Screenshot 2026-08-10 184236" src="https://github.com/user-attachments/assets/4b860eff-2314-4c8d-bb37-55fe5dfbd541" />
 
 ## PCB & Schematic
 - Designed in KiCad.
-
+<img width="559" height="437" alt="Screenshot 2026-08-10 184313" src="https://github.com/user-attachments/assets/28f8af46-0532-4528-bb45-701e5edfd93e" />
+<img width="456" height="545" alt="Screenshot 2026-08-10 184337" src="https://github.com/user-attachments/assets/aac84dc7-bd6e-4cac-bc6f-5d33df1790b9" />
 
 ## BOM
 - ESP32 WROOM-32 Development Board

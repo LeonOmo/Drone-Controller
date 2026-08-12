@@ -22,7 +22,7 @@ A custom ESP32-based drone remote controller designed from scratch.
 <img width="456" height="545" alt="Screenshot 2026-08-10 184337" src="https://github.com/user-attachments/assets/aac84dc7-bd6e-4cac-bc6f-5d33df1790b9" />
 
 ## BOM
-- ESP32 WROOM-32 Development Board
+- ESP32-WROOM-32E Modul
 - RadioMaster RP1 ELRS Transmitter/Receiver Module
 - 0.96" SSD1306 I2C OLED Display
 - 2x PS2 Joysticks

@@ -63,7 +63,7 @@ void setup() {
     display.setTextColor(WHITE);
     display.setTextSize(1);
     display.setCursor(5, 0);
-    display.println("OMO SYSTEMS :)");
+    display.println("OMO SYSTEMS");
     display.setCursor(5, 15);
     display.println("Connecting RP1...");
     display.setCursor(5, 30);

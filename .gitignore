@@ -1,6 +1,0 @@
-.pio/
-.vscode/
-.idea/
-*.o
-*.elf
-*.binS

@@ -3,4 +3,5 @@ ESP32 WROOM 32E N8 1x 4,75 € https://www.digikey.de/de/products/detail/espress
 RP1 1x 29,00 € (Lowest price i could find with shipping) https://www.amazon.de/gp/product/B0FGJG4DZB/ref=sw_img_1?smid=AM99EBNDPQU5F&th=1
 OLED Display | Will display altitude , speed etc.| 0.96 1x 4,45€ https://www.amazon.de/gp/product/B0DKTVFQ2Q/ref=ox_sc_act_image_2?smid=A26LES7I7BJBD5&psc=1
 PS2 Joysticks | For Controlling the drones throttle, yaw, roll and pitch | 2x 3,89 € (7,78 €) https://funduinoshop.com/en/electronic-modules/keypads-and-buttons/joysticks/ps2-joystick-module-with-xh2.54-5p-socket
-
+AMS1117 3.3 | Steps down higher input voltage (like 5V) to a stable 3.3V | 1,00 € (2,00 with shipping costs) https://de.aliexpress.com/item/1005002487704059.html?spm=a2g0o.productlist.0.0.79f05eb0RuWaHU&mp=1&pdp_npi=6%40dis%21EUR%21EUR+1.96%21EUR+1.75%21%21EUR+1.75%21%21%21%400b88489f17870541218815934e0e06%2112000020837902169%21ct%21DE%21-1%21%211%210%21&gatewayAdapt=glo2deu
+USB-C 

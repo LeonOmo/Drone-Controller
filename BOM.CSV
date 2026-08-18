@@ -1,4 +1,4 @@
-Item,Quantity,Price,Link,Description
+Item,Quantity,Total Price,Link,Description
 "ESP32 WROOM 32E N8","1","4,75 €","https://www.digikey.de/de/products/detail/espressif-systems/ESP32-WROOM-32E-N8/13159522","Microcontroller core"
 "RP1","1","29,00 €","https://www.amazon.de/gp/product/B0FGJG4DZB/ref=sw_img_1?smid=AM99EBNDPQU5F&th=1","ExpressLRS Receiver"
 "OLED Display","1","4,45 €","https://www.amazon.de/gp/product/B0DKTVFQ2Q/ref=ox_sc_act_image_2?smid=A26LES7I7BJBD5&psc=1","Will display altitude, speed etc."
